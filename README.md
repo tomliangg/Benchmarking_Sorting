@@ -4,6 +4,7 @@
 <p><a href="https://coursys.sfu.ca/2018su-cmpt-353-d1/pages/AcademicHonesty">Academic Honesty</a>: it's important, as always.</p>
 <br/>
 <p> The task of this exercise is to use statistical tests (namely ANOVA and post hoc analysis) to benchmark 7 different sorting algorithms. The 7 sorting algorithms are alreay pre-implemented. You job is to firstly write a program to create/generate time data which will be stored into a .csv file. Afterwards, implement a data analysis program which takes in the data .csv file and perform the stat tests there.</p>
+<p><b>Note:</b> I don't have permission to run my script on the SFU cloud gateway so I didn't try to meet the restriction #1. Nevertheless, the code takes around 35 seconds to run on my old Surface Pro 3 (4GB RAM).</p>
 <br/>
 <p>Below is the exercise description </p>
 <hr>
